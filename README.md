@@ -28,14 +28,7 @@
 
 ---
 
-## 📊 GitHub Stats:
-![Osama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OsamaMousa11&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaMousa11&layout=compact&theme=tokyonight)
-
----
-
-## 🐍 Snake eating my contributions:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OsamaMousa11/OsamaMousa11/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OsamaMousa11/OsamaMousa11/output/github-snake.svg" />
