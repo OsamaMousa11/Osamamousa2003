@@ -27,6 +27,10 @@
 ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ---
+## 📊 GitHub Stats:
+![Osama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OsamaMousa11&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaMousa11&layout=compact&theme=tokyonight)
 
 
 <picture>
