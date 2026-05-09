@@ -1,6 +1,8 @@
 # Hi 👋, I'm Osama Mousa
 
-### Backend .NET Developer
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=Backend+.NET+Developer;Clean+Architecture+%7C+REST+APIs;ASP.NET+Core+%7C+SQL+Server+%7C+Redis" alt="Typing SVG" />
+</div>
 
 ---
 
